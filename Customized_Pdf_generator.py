@@ -41,6 +41,9 @@ def Coutomized_extraction (input_file_name):
         temp_page = input_pdf.getPage(i)
         temp_pdf_writer.addPage(temp_page)
         if (i+1) %2 == 0 : temp_pdf_writer = pdf_writer_list[alternate.__next__()]
+    number_blanks = pdf_front_writer.getNumPages() - pdf_back_writer.getNumPages()
+    for _ in range(number_blanks):
+        pdf_back_writer.addBlankPage()
     with open(input_file_name.replace(".pdf", "_front.pdf"), mode='wb') as output_file:
         pdf_front_writer.write(output_file)
     with open(input_file_name.replace(".pdf", "_back.pdf"), mode='wb') as output_file:
