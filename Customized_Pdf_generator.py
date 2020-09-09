@@ -27,7 +27,7 @@ def Coutomized_extraction (input_file_name):
     """ this file will extract front pages and back pages and 
     put it as new files with the same name
     """
-    input_pdf = PdfFileReader(input_file_name)
+    input_pdf = PdfFileReader(input_file_name, strict=False)
     pdf_front_writer = PdfFileWriter()
     pdf_back_writer = PdfFileWriter()
     def alternate():
