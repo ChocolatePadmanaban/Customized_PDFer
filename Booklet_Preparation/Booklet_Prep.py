@@ -12,8 +12,9 @@ def booklet_Prep(input_file_name):
     
     
     
-    booklet_length = total_file_length//4 +1
+    booklet_length = total_file_length//4 
     if total_file_length % 4 != 0: 
+        booklet_length += 1
         blank_pages_needed = 4 - total_file_length % 4
         for _ in range(blank_pages_needed):
             writer.add_blank_page()
