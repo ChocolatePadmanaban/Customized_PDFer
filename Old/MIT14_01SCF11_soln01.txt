@@ -1,0 +1,398 @@
+MIT14_01SCF11_soln01\nNumber of pages: 5\n\n14.01 Fall
+ 2010Problem Set 1 Solutions1. (25 points)
+ For
+ each
+ of the following
+ scenarios,
+ use a supply and demand diagram
+ to illustrate the  of the given
+ shock
+ on the equilibrium price and quantity
+ in the sp
+ competitive
+ market.
+ Explain whether there is a shift in the demand curve,
+ the supply curve,
+ or neither. (a) (5 points)
+ An unexpected
+ temporary
+ heat wave
+ hits the East Coast. Show
+ the ect
+ in the ice cream market
+ in New England.The temporary
+ heat wave
+ shifts
+ the demand curve
+ to the right
+ from D to D0 . As a result,equilibrium price and quantity
+ both
+ go up.(b) (5 points)
+ The government
+ introduces
+ a tax on ice cream which
+ is paid by
+ producers.
+ What is the  in the ice cream
+ market?
+The supply curve
+ shifts up from S to S0 by
+ the amount
+ of the tax. As a result, the equilibriumprice increases and the equilibrium
+ quantity
+ decreases. However,
+ the rise in the equilibrium pricefrom P to P 0 is smaller than the tax.(c) (5 points)
+ China and Mexico are major
+ producers
+ of textiles. Workers
+ in Mexico decide to go on strike.
+ Show
+ the e
+ on the market
+ for Mexican textiles.The supply curve
+ for Mexican textiles shifts to the left. This results in a higher equilibrium priceand lower
+ equilibrium quantity
+ in the market
+ for Mexican textiles.(d) (5 points)
+ Show
+ the t
+ of the situation
+ described
+ in (c) on the market
+ for Chinese textiles. The demand curve
+ for Chinese textiles shifts to the right.
+ This results in a higher equilibrium
+ price and higher
+ equilibrium quantity
+ in the market
+ for Chinese textiles.
+ (e) (5 points)
+ Suppose
+ the government
+ imposes
+ a price cap on bottled
+ water.
+Show
+ the  in the bottled
+ water
+ market.
+ 1 If the price ceiling P  is set
+ below
+ the equilibrium
+ price P , then there will be
+ a shortage of bottled
+ water
+ in the amount
+ of Q1  Q2 and bottled
+ water
+ will be
+ rationed.
+ If the price ceiling is above
+ the equilibrium price, then there is no  Problem 1 solution courtesy of William
+ Wheaton. Used with permission.
+ 2. (20 points)
+ For
+ each
+ of the following
+ pairs of goods,
+ identify
+ which
+ one you
+ would
+ expect
+ to have
+ more own-price
+ elastic demand. Please explain your
+ reasoning.
+ (a) (5 points)
+ Computers (generally) vs. Apple MacBook
+ Pro laptops.Apple MacBook
+ Pro, because
+ it is a sp
+ brand and has
+ more substitutability.
+(b) (5 points)
+ Stereo
+ headphones (generally) vs. hearing aids.Stereo headphones, since they tend to be
+ less of a necessity
+ good
+ than hearing aids.For
+ each
+ of the
+ following
+ goods,
+ identify
+ whether you
+ would
+ expect
+ demand to be
+ more (own-price)
+ elastic in the short run or the long run. As above,
+ please  explain your
+ reasoning. (c) (5 points)
+ Retail gasoline in the suburbs of Chicago. More price elastic in the long run, because
+ people
+ cannot ely
+ adjust to necessity
+ goods
+ like
+ gasoline in the short run,
+ while in the long run, people
+ can substitute it with electricity
+ (hybrid
+ cars), diesel, public transportation,
+ etc. (d) (5 points)
+ Air conditioning units in Miami
+ Beach,
+ Florida. More price elastic in the short
+ run, because
+ there are other good
+ substitutes in the short run, such
+ as fans. If there
+ were
+ a sudden increase in the price of A/C units, people
+ could delay
+ their purchase
+ of a unit for a few days
+ or weeks.
+ But in the long run, there is no good
+ substitute for A/C. Problem 2 solution courtesy of Luke
+ Stein. Used
+ with permission.
+ 3. (30 points)
+ Consider the market
+ for apple juice.In this
+ market,
+ the supply curve
+ is given
+ by
+ QS = 10PJ  5PA and the demand curve
+ is given
+ by
+ QD = 100  15PJ + 10PT , where J denotes apple juice, A denotes apples, and T denotes tea. (a) (7 points)
+ Assume
+ that PA is  at $1 and PT = 5. Calculate the equilibrium price and quantity
+ in the apple
+ juice market.
+We
+ have
+ the system of equations Q = 10PJ  5  1 and Q = 100  15PJ + 10  5. Solving for PJand Q we
+ get that PJ =6
+:2 and Q = 57.(b) (7 points)
+ Suppose
+ that a poor
+ harvest
+ season raises the price of apples to PA = 2. Find the new equilibrium price and quantity
+ of apple juice. Draw
+ a graph to illustrate your
+ answer.
+ 2 We
+ now
+ have
+ to solve
+ the system: Q = 10PJ  10Q = 150  15PJSolving for PJ and Q we
+ get that PJ =6
+:4 and Q = 54. In a supply
+ and demand graph, the supplycurve
+ shifts
+ to the left,
+ resulting in the higher equilibrium price and lower
+ equilibrium
+ quantity.
+(c) (8 points)
+ Suppose
+ PA = 1 but the price
+ of tea drops to PT = 3. Find the new equilibrium
+ price and quantity
+ of apple juice.Q = 10PJ  5, Q = 130  15PJ !
+ PJ =5
+:4, Q = 49.(d) (8 points)
+ Suppose
+ PA =1
+;P
+T = 5, and there is a price ceiling on apple juice of P  = 5. What is J the excess demand for apple juice as a result? Draw
+ a graph to illustrate your
+ answer.
+Note that the price ceiling will be
+ binding,
+ since the equilibrium price from (a) is PJ =6
+:2.Plugging the price
+ ceiling level
+ into
+ the supply and demand equations we
+ get that QS = 45 andQD = 75. Hence, there will be
+ excess demand for apple juice of QE = 30. The graph in Question
+1(e) shows
+ the identical
+ case as the one here.Problem 3 solution courtesy of William
+ Wheaton. Used with permission.
+ 4. (25 points)
+ You
+ have
+ been
+ asked
+ to analyze the market
+ for steel.
+ From
+ public sources, you
+ are able to  that last
+ year's
+ price for steel was
+ $20 per
+ ton. At
+ this price, 100 million tons were
+ sold on the world
+ market.
+ From
+ trade association
+ data you
+ are able to obtain
+ estimates for the own-price
+ elasticities of demand and supply on the world
+ markets
+ as 0:25 for demand and 0:5 for supply.
+ Assume that steel has linear demand and supply curves
+ throughout. (a) (10 points)
+ Solve
+ for the equations of demand and supply
+ in this market
+ and sketch
+ the demand and supply curves.
+Assume that this is a competitive
+ market
+ and assume that demand and supply are linear. Thus,
+Xd = a  bP and Xs = c + dP . We
+ know
+ from the equation for own-price
+ elasticity
+ of demandthatdXd PX PX 20 EQX PX ==
+ b = b = 0:25 dPX Xd Xd 100 Solving for b, then, we
+ have
+ b =1
+:25. Substituting
+ back
+ into
+ the equation
+ for demand, Xd = a  1:25P or 100 = a  1:25(20). Solving for a we
+ have
+ a = 125. Hence, the equation for last year's
+ demand is Xd = 125  1:25P . We
+ know
+ that
+ the price elasticity
+ of supply is dXs PX 20 EQX PX ==
+ d =0
+:5 dPX Xs 100 3 Solving for d, then, we
+ have
+ d =2
+:5. Substituting back
+ into
+ the equation for supply,
+ Xs = c+2
+:5P or 100=
+ c +2
+:5(20). Solving for c, we
+ have
+ c = 50. Hence, the equation for last year's
+ supply is Xs = 50+2
+:5P . (b) (15 points)
+ Suppose
+ that you
+ discover
+ that the current
+ price of steel
+ is $15 per
+ ton and the current
+ level
+ of worldwide
+ sales of steel is 150 million tons. The most recent
+ elasticity
+ estimates
+ from the trade association
+ this year
+ are 0:125 for demand and 0:25 for supply.
+ Describe
+ the change
+ in the supply and
+ demand curves
+ over
+ the past year
+ using your
+ diagram from part (a). What sort of event(s)
+ might
+ explain the change?
+ Using the same functional
+ forms as in the  part of the answer,
+ with the new data we
+  that Xd = a  bP becomes
+ 150 = a  b(15). Our equation for elasticity
+ of demand yields dXd PX PX 15 EQX PX ==
+ b = b = 0:125 dPX Xd Xd 150 Solving for b yields b =1
+:25. Substituting
+ this value
+ for b into
+ the equation for (linear) demand,we
+ have
+ 150 = a  1:25(15) or a = 168:75. Hence,
+ Xd = 168:75  1:25P .For
+ supply,
+ we
+ have
+ Xs = c + dP or 150=
+ c + d(15). The equation for elasticity
+ yieldsdXs PX 15 EQX PX ==
+ d =0
+:25 dPX Xs 150 Solving for
+ d yields d =2
+:5. Substituting this value
+ for d into
+ the equation
+ for linear supply,
+ we
+ have
+ 150 = c +2
+:5(15) or c = 112:5. Thus,
+ Xs = 112:5+2
+:5P . The demand and
+ supply have
+ kept
+ the same slope
+ as last year,
+ but the intercepts
+ have
+ changed
+ for both
+ curves:
+ demand and supply have
+ shifted out. The demand shift
+ could occur
+ with any
+ number
+ of factors that increase the willingness to pay
+ for steel at any
+ given
+ price, such
+ as an increase in income, an increase in the price of other
+ (substitute) materials, or the increase in demand for a good
+ that requires steel as an input, like
+ cars. The supply shift could occur
+ with any
+ of a number
+ of factors
+ that increase
+ the willingness to produce
+ steel for the markets
+ at a given
+ price, such
+ as an increase in the number
+ of
+  that sell steel, or a decrease in the prices
+ of inputs required to produce
+ steel (such
+ as steel
+ workers'
+ wages).
+ Problem 4 solution courtesy of Luke
+ Stein. Used
+ with permission.
+ 4 MIT OpenCourseWarehttp://ocw.mit.edu 14.01SC Principles of Microeconomics Fall 2011 For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. 
