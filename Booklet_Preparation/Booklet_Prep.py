@@ -27,9 +27,9 @@ def booklet_Prep(input_file_name):
     flip_fwriter, flip_bwriter = PdfWriter(), PdfWriter()
     for i in range(booklet_length):
         flip_fwriter.add_page(front_writer.pages[i])
-        flip_fwriter.add_page(front_writer.pages[-(i+1)])
+        flip_fwriter.add_page(back_writer.pages[-(i+1)])
         flip_bwriter.add_page(back_writer.pages[i])
-        flip_bwriter.add_page(back_writer.pages[-(i+1)])
+        flip_bwriter.add_page(front_writer.pages[-(i+1)])
     with open(input_file_name.replace(".pdf", "_front.pdf"), mode='wb') as output_file:
         flip_fwriter.write(output_file)
     with open(input_file_name.replace(".pdf", "_back.pdf"), mode='wb') as output_file:
